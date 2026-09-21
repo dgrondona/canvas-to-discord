@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T23:27:34.683000+00:00",
+  "updated_at": "2026-09-21T13:16:15.177737+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -47,13 +47,31 @@
         "1548837559222931526"
       ],
       "created_at": "2026-09-13T23:27:30.225246+00:00",
-      "fingerprint": "7db0d520bad9612bcf3298d0bd9b0832b36815ddc452531860c17af0cb09799e",
+      "fingerprint": "9a6b5d0b2db3f60e8f89770b68e2c413dd1cc3b4266626d6ec80dbf705cf77f3",
       "notable": {
         "name": "Lab 2: Requirements Analysis",
         "due_at": "2026-09-26T06:59:59Z",
         "points_possible": 100.0,
         "unlock_at": null,
         "lock_at": "2026-10-03T06:59:59Z"
+      },
+      "updated_at": "2026-09-21T13:16:14.177544+00:00"
+    },
+    "579519": {
+      "state": "threaded",
+      "thread_id": "1551582812895846463",
+      "starter_id": "1551582812895846463",
+      "message_ids": [
+        "1551582822693609583"
+      ],
+      "created_at": "2026-09-21T13:16:12.016322+00:00",
+      "fingerprint": "4cf1059d3731373236b4fc934f6b07813b92416930c62e44bb504f3bd082c29d",
+      "notable": {
+        "name": "Lab 3 Peer- and Self- Assessment",
+        "due_at": "2026-10-12T06:59:59Z",
+        "points_possible": 0.0,
+        "unlock_at": null,
+        "lock_at": "2026-10-12T06:59:59Z"
       }
     },
     "579525": {
@@ -71,6 +89,24 @@
         "points_possible": 0.0,
         "unlock_at": null,
         "lock_at": "2026-10-05T06:59:59Z"
+      }
+    },
+    "580764": {
+      "state": "threaded",
+      "thread_id": "1551582791928389744",
+      "starter_id": "1551582791928389744",
+      "message_ids": [
+        "1551582802804215889",
+        "1551582807766339687"
+      ],
+      "created_at": "2026-09-21T13:16:08.532044+00:00",
+      "fingerprint": "c71182e0c0d4e3dc71d2b82697f6dd3deabccea3e899e72b0b8350b3e8aaaf62",
+      "notable": {
+        "name": "Lab 3: Design",
+        "due_at": "2026-10-03T06:59:59Z",
+        "points_possible": 100.0,
+        "unlock_at": null,
+        "lock_at": "2026-10-10T06:59:59Z"
       }
     }
   }
