@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:16:15.177737+00:00",
+  "updated_at": "2026-10-04T01:57:27.224138+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -74,6 +74,23 @@
         "lock_at": "2026-10-12T06:59:59Z"
       }
     },
+    "579520": {
+      "state": "threaded",
+      "thread_id": "1556123037340930219",
+      "starter_id": "1556123037340930219",
+      "message_ids": [
+        "1556123048371945664"
+      ],
+      "created_at": "2026-10-04T01:57:26.223829+00:00",
+      "fingerprint": "0376a2c1b0d4c0bf70302f1af906f7ebfb6cb54a10b02681b472b6af7769db97",
+      "notable": {
+        "name": "Lab 4.0 Peer- and Self- Assessment",
+        "due_at": "2026-10-19T06:59:59Z",
+        "points_possible": 0.0,
+        "unlock_at": null,
+        "lock_at": "2026-10-19T06:59:59Z"
+      }
+    },
     "579525": {
       "state": "threaded",
       "thread_id": "1548837564163563682",
@@ -107,6 +124,24 @@
         "points_possible": 100.0,
         "unlock_at": null,
         "lock_at": "2026-10-10T06:59:59Z"
+      }
+    },
+    "582479": {
+      "state": "threaded",
+      "thread_id": "1556123016579260448",
+      "starter_id": "1556123016579260448",
+      "message_ids": [
+        "1556123027257950228",
+        "1556123032328605806"
+      ],
+      "created_at": "2026-10-04T01:57:22.359372+00:00",
+      "fingerprint": "b67b8c917d10ae0efd9f0a11dbd6422ffe257f0f3c442ce30ce4bd96893063b4",
+      "notable": {
+        "name": "Lab 4.0: Project Scaffolding",
+        "due_at": "2026-10-11T06:59:59Z",
+        "points_possible": 50.0,
+        "unlock_at": null,
+        "lock_at": "2026-10-18T06:59:59Z"
       }
     }
   }
