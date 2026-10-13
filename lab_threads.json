@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T01:57:27.224138+00:00",
+  "updated_at": "2026-10-13T11:40:17.581230+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -91,6 +91,23 @@
         "lock_at": "2026-10-19T06:59:59Z"
       }
     },
+    "579521": {
+      "state": "threaded",
+      "thread_id": "1559531205534158849",
+      "starter_id": "1559531205534158849",
+      "message_ids": [
+        "1559531215692767232"
+      ],
+      "created_at": "2026-10-13T11:40:16.580788+00:00",
+      "fingerprint": "2df79c6519ae53b43641dcc7eb39059d2af33d4e30b599f8a74dbc7faf6cd712",
+      "notable": {
+        "name": "Lab 4.1 Peer- and Self- Assessment",
+        "due_at": "2026-11-02T07:59:59Z",
+        "points_possible": 0.0,
+        "unlock_at": null,
+        "lock_at": "2026-11-02T07:59:59Z"
+      }
+    },
     "579525": {
       "state": "threaded",
       "thread_id": "1548837564163563682",
@@ -142,6 +159,25 @@
         "points_possible": 50.0,
         "unlock_at": null,
         "lock_at": "2026-10-18T06:59:59Z"
+      }
+    },
+    "583629": {
+      "state": "threaded",
+      "thread_id": "1559531179613618257",
+      "starter_id": "1559531179613618257",
+      "message_ids": [
+        "1559531189629485107",
+        "1559531194796740729",
+        "1559531199943278613"
+      ],
+      "created_at": "2026-10-13T11:40:12.964353+00:00",
+      "fingerprint": "471e81ec72b8bb54fadbd973f79d4dd86238e3630840c4f4a37241cc6d392acc",
+      "notable": {
+        "name": "Lab 4.1: Walking Skeleton",
+        "due_at": "2026-10-25T06:59:59Z",
+        "points_possible": 100.0,
+        "unlock_at": null,
+        "lock_at": "2026-11-01T06:59:59Z"
       }
     }
   }
