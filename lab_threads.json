@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T11:40:17.581230+00:00",
+  "updated_at": "2026-10-16T11:35:07.100376+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -65,14 +65,15 @@
         "1551582822693609583"
       ],
       "created_at": "2026-09-21T13:16:12.016322+00:00",
-      "fingerprint": "4cf1059d3731373236b4fc934f6b07813b92416930c62e44bb504f3bd082c29d",
+      "fingerprint": "9ec24e69097284c1bd03528b6107a81da86fbcd542d34bed2f33ab39c3351177",
       "notable": {
         "name": "Lab 3 Peer- and Self- Assessment",
-        "due_at": "2026-10-12T06:59:59Z",
+        "due_at": "2026-10-18T06:59:59Z",
         "points_possible": 0.0,
         "unlock_at": null,
-        "lock_at": "2026-10-12T06:59:59Z"
-      }
+        "lock_at": null
+      },
+      "updated_at": "2026-10-16T11:35:05.902401+00:00"
     },
     "579520": {
       "state": "threaded",
