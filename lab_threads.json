@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T06:58:08.580049+00:00",
+  "updated_at": "2026-10-27T08:02:47.852675+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -109,6 +109,23 @@
         "lock_at": "2026-11-02T07:59:59Z"
       }
     },
+    "579522": {
+      "state": "threaded",
+      "thread_id": "1564549901465952267",
+      "starter_id": "1564549901465952267",
+      "message_ids": [
+        "1564549911347855401"
+      ],
+      "created_at": "2026-10-27T08:02:46.852255+00:00",
+      "fingerprint": "d284b6ec84b5d57dbdd01bd00cdd08180cedbcd1ea96b42ec827bfd2f6107089",
+      "notable": {
+        "name": "Lab 4.2 Peer- and Self- Assessment",
+        "due_at": "2026-11-16T07:59:59Z",
+        "points_possible": 0.0,
+        "unlock_at": null,
+        "lock_at": "2026-11-16T07:59:59Z"
+      }
+    },
     "579525": {
       "state": "threaded",
       "thread_id": "1548837564163563682",
@@ -181,6 +198,25 @@
         "lock_at": "2026-11-01T06:59:59Z"
       },
       "updated_at": "2026-10-25T06:58:07.392384+00:00"
+    },
+    "585480": {
+      "state": "threaded",
+      "thread_id": "1564549873922080889",
+      "starter_id": "1564549873922080889",
+      "message_ids": [
+        "1564549884999245895",
+        "1564549889382285448",
+        "1564549896206553218"
+      ],
+      "created_at": "2026-10-27T08:02:43.327638+00:00",
+      "fingerprint": "51ffeac765c7c4f9ea1001f350e4bff903221704c1f3a786b8903f4635ba4c51",
+      "notable": {
+        "name": "Lab 4.2: Core MVP",
+        "due_at": "2026-11-08T07:59:59Z",
+        "points_possible": 100.0,
+        "unlock_at": null,
+        "lock_at": "2026-11-15T07:59:59Z"
+      }
     }
   }
 }
