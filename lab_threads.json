@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:02:47.852675+00:00",
+  "updated_at": "2026-11-10T10:29:40.750509+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -126,6 +126,23 @@
         "lock_at": "2026-11-16T07:59:59Z"
       }
     },
+    "579523": {
+      "state": "threaded",
+      "thread_id": "1569660293309665365",
+      "starter_id": "1569660293309665365",
+      "message_ids": [
+        "1569660305116766228"
+      ],
+      "created_at": "2026-11-10T10:29:39.750130+00:00",
+      "fingerprint": "49bf1383b2d59777ff3d304dc0dd8e38844b2bd43d903faadf5369abe7d30c76",
+      "notable": {
+        "name": "Lab 4.3 Peer- and Self- Assessment",
+        "due_at": "2026-12-07T07:59:59Z",
+        "points_possible": 0.0,
+        "unlock_at": null,
+        "lock_at": "2026-12-07T07:59:59Z"
+      }
+    },
     "579525": {
       "state": "threaded",
       "thread_id": "1548837564163563682",
@@ -216,6 +233,25 @@
         "points_possible": 100.0,
         "unlock_at": null,
         "lock_at": "2026-11-15T07:59:59Z"
+      }
+    },
+    "587626": {
+      "state": "threaded",
+      "thread_id": "1569660267095134290",
+      "starter_id": "1569660267095134290",
+      "message_ids": [
+        "1569660277861912658",
+        "1569660282928898138",
+        "1569660287857070152"
+      ],
+      "created_at": "2026-11-10T10:29:35.578802+00:00",
+      "fingerprint": "d7e94b02338d0180b4bf7f423f0cc954d35d381ed1aad7492d381b2b942e027d",
+      "notable": {
+        "name": "Lab 4.3: Quality Assurance and Differentiation",
+        "due_at": "2026-11-22T07:59:59Z",
+        "points_possible": 100.0,
+        "unlock_at": null,
+        "lock_at": "2026-12-06T07:59:59Z"
       }
     }
   }
