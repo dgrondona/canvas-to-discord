@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:29:40.750509+00:00",
+  "updated_at": "2026-11-24T06:29:45.290158+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -141,6 +141,23 @@
         "points_possible": 0.0,
         "unlock_at": null,
         "lock_at": "2026-12-07T07:59:59Z"
+      }
+    },
+    "579524": {
+      "state": "threaded",
+      "thread_id": "1574673346610724905",
+      "starter_id": "1574673346610724905",
+      "message_ids": [
+        "1574673356467347518"
+      ],
+      "created_at": "2026-11-24T06:29:44.289812+00:00",
+      "fingerprint": "5d58cf68cd69388a1f88f8b1f9f35447925cf190a8238ddc5d6d8b3e23ddb89f",
+      "notable": {
+        "name": "Lab 4.4 Peer- and Self- Assessment",
+        "due_at": "2026-12-14T07:59:59Z",
+        "points_possible": 0.0,
+        "unlock_at": null,
+        "lock_at": "2026-12-14T07:59:59Z"
       }
     },
     "579525": {
