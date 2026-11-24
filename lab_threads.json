@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T06:29:45.290158+00:00",
+  "updated_at": "2026-11-24T18:12:00.605925+00:00",
   "labs": {
     "578606": {
       "state": "threaded",
@@ -151,14 +151,15 @@
         "1574673356467347518"
       ],
       "created_at": "2026-11-24T06:29:44.289812+00:00",
-      "fingerprint": "5d58cf68cd69388a1f88f8b1f9f35447925cf190a8238ddc5d6d8b3e23ddb89f",
+      "fingerprint": "d45534f83be23a259c3e69abb7716a1e199619622357fd0695b0a227b9b23a79",
       "notable": {
         "name": "Lab 4.4 Peer- and Self- Assessment",
         "due_at": "2026-12-14T07:59:59Z",
         "points_possible": 0.0,
         "unlock_at": null,
         "lock_at": "2026-12-14T07:59:59Z"
-      }
+      },
+      "updated_at": "2026-11-24T18:11:59.605722+00:00"
     },
     "579525": {
       "state": "threaded",
@@ -269,6 +270,24 @@
         "points_possible": 100.0,
         "unlock_at": null,
         "lock_at": "2026-12-06T07:59:59Z"
+      }
+    },
+    "589233": {
+      "state": "threaded",
+      "thread_id": "1574850062620688486",
+      "starter_id": "1574850062620688486",
+      "message_ids": [
+        "1574850072510734417",
+        "1574850077086843057"
+      ],
+      "created_at": "2026-11-24T18:11:57.848430+00:00",
+      "fingerprint": "1aef24e6dd710659edfc755ddc1c430b6392e2fafb0b5b7a3f5e0e40b0b3f5e6",
+      "notable": {
+        "name": "Lab 4.4: Release Candidate",
+        "due_at": "2026-12-13T07:59:59Z",
+        "points_possible": 100.0,
+        "unlock_at": null,
+        "lock_at": "2026-12-13T07:59:59Z"
       }
     }
   }
